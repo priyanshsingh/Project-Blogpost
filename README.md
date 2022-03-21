@@ -1,10 +1,10 @@
 
 ### Index
-[Project Blogpost](#project-blogpost)
-[Description](#description)
-[Techical Aspect](#techical-aspect)
-[Future goals](#future-goals)
-[Contributors:](#contributors)
+- [Project Blogpost](#project-blogpost)
+- [Description](#description)
+- [Techical Aspect](#techical-aspect)
+- [Future goals](#future-goals)
+- [Contributors:](#contributors)
 
 # Project Blogpost
 ---
