@@ -4,7 +4,7 @@
 - [Description](#description)
 - [Techical Aspect](#techical-aspect)
 - [Future goals](#future-goals)
-- [Contributors:](#contributors)
+- [Contributors](#contributors)
 
 # Project Blogpost
 ---
