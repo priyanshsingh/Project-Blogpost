@@ -1,12 +1,12 @@
 
 ### Index
-- [#Project Blogpost](#project-blogpost)
+- [Project Blogpost](#project-blogpost)
 - [Description](#description)
 - [Techical Aspect](#techical-aspect)
 - [Future goals](#future-goals)
 - [Contributors:](#contributors)
 
-#Project Blogpost
+# Project Blogpost
 ---
 ## Description
 - This is a web-app where users can upload and read blogs.
