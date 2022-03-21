@@ -25,6 +25,6 @@
 - Implementing react js.
 - Using ML and AI to provide better recommendations.
   
-## Contributors:
+## Contributors
 - [@Jatin Vashisht](https://github.com/jatinvashisht1)
 - [@Priyansh Singh](https://github.com/priyanshsingh)
