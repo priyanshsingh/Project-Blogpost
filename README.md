@@ -5,6 +5,7 @@
 - [Techical Aspect](#techical-aspect)
 - [Future goals](#future-goals)
 - [Contributors](#contributors)
+- [Resources to learn more](#resources-to-learn-more)
 
 # Project Blogpost
 ---
@@ -28,3 +29,12 @@
 ## Contributors
 - [@Jatin Vashisht](https://github.com/jatinvashisht1)
 - [@Priyansh Singh](https://github.com/priyanshsingh)
+
+## Resources to learn more
+- [node.js](https://nodejs.dev/learn/introduction-to-nodejs)
+- [passport.js](https://www.passportjs.org/)
+- [express.js](https://expressjs.com/en/starter/installing.html)
+- [MongoDb](https://docs.mongodb.com/guides/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
