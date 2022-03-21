@@ -1,11 +1,11 @@
 
 ### Index
 - [Project Blogpost](#project-blogpost)
-- [Description](#description)
-- [Techical Aspect](#techical-aspect)
-- [Future goals](#future-goals)
-- [Contributors](#contributors)
-- [Resources to learn more](#resources-to-learn-more)
+  1. [Description](#description)
+  2. [Techical Aspect](#techical-aspect)
+  3. [Future goals](#future-goals)
+  4. [Contributors](#contributors)
+  5. [Resources to learn more](#resources-to-learn-more)
 
 # Project Blogpost
 ---
